@@ -1,0 +1,28 @@
+.form {
+  font-family: sans-serif;
+  width: 400px;
+  /* height: 600px; */
+  background-color: gray;
+  border: 3px black solid;
+  border-radius: 8px;
+}
+
+.set1 {
+  border: none;
+}
+.label {
+  display: block;
+  margin-bottom: 20px;
+}
+
+.label1 {
+  margin-bottom: 0px;
+}
+
+.bot {
+  display: block;
+}
+
+.gg {
+  cursor: pointer;
+}
