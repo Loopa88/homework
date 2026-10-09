@@ -72,6 +72,11 @@ p {
   margin-bottom: 12px;
 }
 
+.article-item::marker{
+  color: #o0ffff
+  font-size: 22px 
+}
+
 .article-video {
   margin-bottom: 40px;
 }
