@@ -73,7 +73,7 @@ p {
 }
 
 .article-item::marker{
-  color: #00ffff
+  color: #00ffff;
   font-size: 22px 
 }
 
